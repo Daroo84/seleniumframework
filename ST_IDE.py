@@ -7,6 +7,7 @@ import time
 class ST_IDE(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Firefox()
+        ##self.driver = webdriver.Chrome()
         self.driver.get('https://account.smartthings.com/login/samsungaccount')
         self.driver.maximize_window()
 

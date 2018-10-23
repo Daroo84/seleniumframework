@@ -1,0 +1,67 @@
+1540302208631	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1540302208663	geckodriver	INFO	Listening on 127.0.0.1:59383
+1540302211363	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DF3D2~1.STA\\AppData\\Local\\Temp\\rust_mozprofile.YgQDb3Ey8Zq6"
+1540302214964	Marionette	INFO	Listening on port 59395
+1540302215186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540302215229	Marionette	DEBUG	[6442450945] Frame script loaded
+1540302215230	Marionette	DEBUG	[6442450945] Frame script registered
+1540302215623	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540302218190	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540302220314	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/
+1540302223937	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/
+1540302224105	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://opensource-demo.orangehrmlive.com/
+1540302225105	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://opensource-demo.orangehrmlive.com/
+1540302225106	Marionette	DEBUG	[6442450945] Received DOM event unload for https://opensource-demo.orangehrmlive.com/
+1540302226341	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302227917	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302228165	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540302232895	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302233244	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302233245	Marionette	DEBUG	[6442450945] Received DOM event unload for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302233929	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/index.php/auth/login
+1540302233946	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/index.php/auth/login
+1540302235964	Marionette	INFO	Stopped listening on port 59395
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540302337309	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1540302337328	geckodriver	INFO	Listening on 127.0.0.1:59626
+1540302340047	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DF3D2~1.STA\\AppData\\Local\\Temp\\rust_mozprofile.0S8woPtb2sHz"
+1540302343084	Marionette	INFO	Listening on port 59638
+1540302343326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540302343365	Marionette	DEBUG	[6442450945] Frame script loaded
+1540302343366	Marionette	DEBUG	[6442450945] Frame script registered
+1540302343762	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540302346438	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540302360286	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/
+1540302373187	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/
+1540302373314	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://opensource-demo.orangehrmlive.com/
+1540302376081	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://opensource-demo.orangehrmlive.com/
+1540302376083	Marionette	DEBUG	[6442450945] Received DOM event unload for https://opensource-demo.orangehrmlive.com/
+1540302378467	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302385370	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302385631	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540302385683	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302387305	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302387307	Marionette	DEBUG	[6442450945] Received DOM event unload for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1540302387589	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/index.php/auth/login
+1540302387605	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/index.php/auth/login
+1540302389614	Marionette	INFO	Stopped listening on port 59638
+[Child 3032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540302389735	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
