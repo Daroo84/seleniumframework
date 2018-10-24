@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad48d0d1-3313-45e0-8f74-27acec833b4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Drivers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocatorLibraries/Locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LocatorLibraries/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/HomePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/LoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/LoginPageTests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gifmap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ST_IDE.py" beforeDir="false" afterPath="$PROJECT_DIR$/ST_IDE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocatorLibraries/Locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/LocatorLibraries/Locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocatorLibraries/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/HomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/LoginPageTests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/LoginPageTests/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/LoginPageTests/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +26,7 @@
       <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="238">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -49,16 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCases/LoginPageTests/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="HomePage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomePage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/HomePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -66,8 +59,8 @@
       <file leaf-file-name="LoginPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/LoginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+            <state relative-caret-position="476">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -75,20 +68,17 @@
       <file leaf-file-name="TC_Login_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Locators.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Locators.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LocatorLibraries/Locators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -120,18 +110,20 @@
         <option value="$PROJECT_DIR$/2.py" />
         <option value="$PROJECT_DIR$/gifmap.py" />
         <option value="$PROJECT_DIR$/ST_IDE.py" />
-        <option value="$PROJECT_DIR$/LocatorLibraries/Locators.py" />
         <option value="$PROJECT_DIR$/LocatorLibraries/LoginPage.py" />
         <option value="$PROJECT_DIR$/LocatorLibraries/HomePage.py" />
+        <option value="$PROJECT_DIR$/LocatorLibraries/Locators.py" />
         <option value="$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py" />
+        <option value="$PROJECT_DIR$/Pages/LoginPage.py" />
+        <option value="$PROJECT_DIR$/Pages/HomePage.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4176" />
-    <option name="y" value="94" />
+    <option name="x" value="4203" />
+    <option name="y" value="42" />
     <option name="width" value="1376" />
-    <option name="height" value="1040" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -148,22 +140,13 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="charts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="Drivers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="LocatorLibraries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
@@ -325,34 +308,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 17m 17s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 13h 47m 43s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 22m 26s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 13h 49m 17s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 22m 49s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 13h 53m 16s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 24m 57s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 13h 56m 22s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 25m 47s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 14h 13m 45s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 39m 57s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 15h 52m 57s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 41m 30s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 15h 55m 38s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 42m 52s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 16h 09m 40s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 43m 58s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 16h 19m 49s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.23 at 15h 46m 31s.xml">
+    <history-entry file="Unittests_for_TC_Login_1_LoginTest_test_login_valid - 2018.10.24 at 16h 26m 54s.xml">
       <configuration name="Unittests for TC_Login_1.LoginTest.test_login_valid" configurationId="tests" />
     </history-entry>
   </component>
@@ -364,7 +347,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3604888" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4562118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299389" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -382,16 +365,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-          <folding>
-            <element signature="e#205#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Drivers/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -730,16 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Drivers/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -763,8 +726,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/LoginPageTests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ST_IDE.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -776,34 +746,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/LoginPageTests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/suite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/LoginPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LocatorLibraries/Locators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/HomePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LocatorLibraries/Locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
