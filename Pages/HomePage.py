@@ -6,10 +6,10 @@ class HomePage():
         self.driver = driver
 
         self.welcome_link_id = Locators.welcome_link_id
-        self.logout_link_linkText = "Logout"
+        self.logout_linkText = Locators.logout_linkText
 
     def click_welcome(self):
         self.driver.find_element_by_id(self.welcome_link_id).click()
 
-    def click_logout(self):
-        self.driver.find_element_by_link_text(self.logout_link_linkText).click()
+    ##def click_logout(self):
+     ##   self.driver.find_element_by_link_text(Locators.logout_linkText).click()

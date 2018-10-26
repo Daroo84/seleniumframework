@@ -30,7 +30,7 @@ class LoginTest(unittest.TestCase):
 
         homepage = HomePage(driver)
         homepage.click_welcome()
-        homepage.click_logout()
+       # homepage.click_logout()
 
         time.sleep(3)
 
@@ -46,14 +46,12 @@ class LoginTest(unittest.TestCase):
         message = driver.find_element_by_xpath("").text
         self.assertEqual(message, "Invalid credentials12")
 
-
-
         time.sleep(2)
 
     @classmethod
     def tearDown(cls):
         cls.driver.close()
-        # cls.driver.quit()
+        ##cls.driver.quit()
         print("Test completed")
 
 
