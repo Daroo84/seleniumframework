@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad48d0d1-3313-45e0-8f74-27acec833b4d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/WebAppFrameworkWithPython/APage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebAppFrameworkWithPython/BPage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebAppFrameworkWithPython/Tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebAppFrameworkWithPython/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +59,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TC_Login_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TC_Login_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+            <state relative-caret-position="628">
+              <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tools.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebAppFrameworkWithPython/Tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -127,6 +143,7 @@
         <option value="$PROJECT_DIR$/Pages/HomePage.py" />
         <option value="$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py" />
         <option value="$PROJECT_DIR$/LocatorLibraries/Locators.py" />
+        <option value="$PROJECT_DIR$/WebAppFrameworkWithPython/Tools.py" />
       </list>
     </option>
   </component>
@@ -152,34 +169,19 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAppFrameworkWithPython" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
-              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAppFrameworkWithPython" type="462c0819:PsiDirectoryNode" />
+              <item name="APage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="LocatorLibraries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
-              <item name="LoginPageTests" type="462c0819:PsiDirectoryNode" />
+              <item name="WebAppFrameworkWithPython" type="462c0819:PsiDirectoryNode" />
+              <item name="BPage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
@@ -387,7 +389,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Drivers/__init__.py" />
     <entry file="file://$PROJECT_DIR$/gifmap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -766,8 +767,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCases/LoginPageTests/TC_Login_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        <state relative-caret-position="628">
+          <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebAppFrameworkWithPython/Tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
